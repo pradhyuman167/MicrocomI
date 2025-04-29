@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microcom International Website
 
 A modern, responsive website for Microcom International built with Next.js, React, and Tailwind CSS.
@@ -60,3 +61,7 @@ The project is configured for deployment on Vercel. You can deploy it by:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# MicrocomI
+microcom international website
+>>>>>>> 5750b3d77f00e6e639ae6dd33b0255f97f12ad5e
